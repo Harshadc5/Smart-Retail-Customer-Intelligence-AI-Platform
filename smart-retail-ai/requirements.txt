@@ -1,0 +1,16 @@
+opencv-contrib-python-headless
+tensorflow
+pandas
+scikit-learn
+nltk
+fastapi
+uvicorn
+pydantic
+joblib
+matplotlib
+torch
+transformers
+accelerate>=1.1.0
+streamlit
+websockets
+python-dotenv
